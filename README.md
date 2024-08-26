@@ -1,11 +1,4 @@
----
-id:
-title: 
-desc:
-category:
-tags: [project] 
-alias: []
----
+
 # Subodai Finance Trading
 
 ## Overview 
