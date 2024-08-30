@@ -1,0 +1,7 @@
+{{ define "content" }}
+<h2>Welcome to Subodai Finance</h2>
+<p>Start trading with advanced tools and real-time data.</p>
+<div hx-get="/api/market-summary" hx-trigger="load">
+    <p>Loading market summary...</p>
+</div>
+{{ end }}
